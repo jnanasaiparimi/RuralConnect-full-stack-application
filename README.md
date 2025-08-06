@@ -2,6 +2,9 @@
 
 RuralConnect is a comprehensive web platform designed to help rural communities easily find and access essential products like groceries, medicines, and more. The platform bridges the gap between rural areas and quality goods, making life easier for everyone in rural communities.
 
+here is the live link : https://ruralconnect-app.netlify.app/
+
+
 ## 🌟 Features
 
 ### Frontend Features
